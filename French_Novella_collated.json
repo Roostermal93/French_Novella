@@ -1,1 +1,28 @@
-ew0KICAgICJjb3VudCI6IDMsDQogICAgIm5leHQiOiBudWxsLA0KICAgICJwcmV2aW91cyI6IG51bGwsDQogICAgInJlc3VsdHMiOiBbDQogICAgICAgIHsNCiAgICAgICAgICAgICJpZCI6ICI3ZmNjZTlhZC0yOTM3LTQzZDctODkyMy1jMTIyNWIzMDE0ZjYiLA0KICAgICAgICAgICAgImNvbGxlY3Rpb25JZCI6ICJGcmVuY2giLA0KICAgICAgICAgICAgInR5cGUiOiAiTm92ZWxsYSIsDQogICAgICAgICAgICAic3RhdHVzIjogInByaXZhdGUiLA0KICAgICAgICAgICAgInZpZGVvVXJsIjogImh0dHBzOi8vd3d3LnRoZWFydG9mZHJvd25pbmcuY29tL0FJQ29udGVudC9Ob3ZlbGxhL0ZyZW5jaC83ZmNjZTlhZC0yOTM3LTQzZDctODkyMy1jMTIyNWIzMDE0ZjYvN2ZjY2U5YWQtMjkzNy00M2Q3LTg5MjMtYzEyMjViMzAxNGY2Lm1wNCINCiAgICAgICAgfSwNCiAgICAgICAgew0KICAgICAgICAgICAgImlkIjogIjY5MDA2MWI1LTc5NjQtNGZkNi05ZGExLTczYTIxN2M4NDQzZSIsDQogICAgICAgICAgICAiY29sbGVjdGlvbklkIjogIkZyZW5jaCIsDQogICAgICAgICAgICAidHlwZSI6ICJOb3ZlbGxhIiwNCiAgICAgICAgICAgICJzdGF0dXMiOiAicHJpdmF0ZSIsDQogICAgICAgICAgICAidmlkZW9VcmwiOiAiaHR0cHM6Ly93d3cudGhlYXJ0b2Zkcm93bmluZy5jb20vQUlDb250ZW50L05vdmVsbGEvRnJlbmNoLzY5MDA2MWI1LTc5NjQtNGZkNi05ZGExLTczYTIxN2M4NDQzZS82OTAwNjFiNS03OTY0LTRmZDYtOWRhMS03M2EyMTdjODQ0M2UubXA0Ig0KICAgICAgICB9LA0KICAgICAgICB7DQogICAgICAgICAgICAiaWQiOiAiMGVjOTU2OWItNWM2Yi00NjU3LWFkZjMtYzVmNGExZTZjZTljIiwNCiAgICAgICAgICAgICJjb2xsZWN0aW9uSWQiOiAiRnJlbmNoIiwNCiAgICAgICAgICAgICJ0eXBlIjogIk5vdmVsbGEiLA0KICAgICAgICAgICAgInN0YXR1cyI6ICJwcml2YXRlIiwNCiAgICAgICAgICAgICJ2aWRlb1VybCI6ICJodHRwczovL3d3dy50aGVhcnRvZmRyb3duaW5nLmNvbS9BSUNvbnRlbnQvTm92ZWxsYS9GcmVuY2gvMGVjOTU2OWItNWM2Yi00NjU3LWFkZjMtYzVmNGExZTZjZTljLzBlYzk1NjliLTVjNmItNDY1Ny1hZGYzLWM1ZjRhMWU2Y2U5Yy5tcDQiDQogICAgICAgIH0NCiAgICBdDQp9
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "7fcce9ad-2937-43d7-8923-c1225b3014f6",
+            "collectionId": "French",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/French/French_Novella/7fcce9ad-2937-43d7-8923-c1225b3014f6/7fcce9ad-2937-43d7-8923-c1225b3014f6_fr_Male.mp4"
+        },
+        {
+            "id": "690061b5-7964-4fd6-9da1-73a217c8443e",
+            "collectionId": "French",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/French/French_Novella/690061b5-7964-4fd6-9da1-73a217c8443e/690061b5-7964-4fd6-9da1-73a217c8443e_fr_Male.mp4"
+        },
+        {
+            "id": "0ec9569b-5c6b-4657-adf3-c5f4a1e6ce9c",
+            "collectionId": "French",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/French/French_Novella/0ec9569b-5c6b-4657-adf3-c5f4a1e6ce9c/0ec9569b-5c6b-4657-adf3-c5f4a1e6ce9c_fr_Male.mp4"
+        }
+    ]
+}
