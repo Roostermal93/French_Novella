@@ -1,8 +1,15 @@
 {
-    "count": 3,
+    "count": 5,
     "next": null,
     "previous": null,
     "results": [
+        {
+            "id": "5e126f59-5d68-4250-ab20-1fd6f49f6a44",
+            "collectionId": "French",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Novella/French/5e126f59-5d68-4250-ab20-1fd6f49f6a44_fr_Female.mp4"
+        },
         {
             "id": "7fcce9ad-2937-43d7-8923-c1225b3014f6",
             "collectionId": "French",
@@ -16,6 +23,13 @@
             "type": "Novella",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Novella/French/690061b5-7964-4fd6-9da1-73a217c8443e_fr_Male.mp4"
+        },
+        {
+            "id": "ecf465fe-2918-4365-850e-eb099297d607",
+            "collectionId": "French",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Novella/French/ecf465fe-2918-4365-850e-eb099297d607_fr_Female.mp4"
         },
         {
             "id": "0ec9569b-5c6b-4657-adf3-c5f4a1e6ce9c",
